@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is an Excel-based interactive dashboard designed to analyze Swiggy-style food delivery sales data. It visualizes key performance metrics such as sales trends, ratings, orders, and regional insights in a clear and structured format.
 
-This dashboard was created as a learning project to practice Excel data cleaning, KPI tracking, and dashboard design.
+This dashboard was created as a learning project to practice Excel data cleaning, KPI tracking, and dashboard design.  
 
 ---
 
